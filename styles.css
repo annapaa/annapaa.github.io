@@ -1,11 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: black;
 }
 h1 {
-  color:navy;
+  color:white;
   text-align:center;
+  font-size:20px;
 }
 P {
   font-family:verdana;
-  font-size:20px;
+  font-size:12px;
+  font-color:green;
 }
