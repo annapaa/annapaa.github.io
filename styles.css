@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: black;
 }
 h1 {
   color:white;
@@ -11,10 +11,3 @@ P {
   font-size: 12px;
   color: green;
 }
-<style>
-    .myDiv {
-    Border: 2px; dotted;
-    Color: white;
-    
-    }
-  </style>
