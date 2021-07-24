@@ -11,3 +11,10 @@ P {
   font-size: 12px;
   color: green;
 }
+<style>
+    .myDiv {
+    Border: 2px; dotted;
+    Color: white;
+    
+    }
+  </style>
