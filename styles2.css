@@ -22,4 +22,6 @@ P {
   font-family: verdana;
   font-size: 12px;
   color: black;
+  backgroud-color: gray;
+  border-radius: 20px;
 }
