@@ -10,6 +10,7 @@ h1 {
   font-size:25px;
   border-style:groove;
   border-radius: 15px 15px 100px 100px;
+  margin:auto;
 }
 h2 {
   color:white;
@@ -17,6 +18,7 @@ h2 {
   font-size:20px;
   border-style:groove;
   border-radius:15px;
+  margin:auto;
 }
 p {
   font-family: verdana;
@@ -26,4 +28,5 @@ p {
   border-radius: 30px;
   border-style: solid;
   padding: 15px;
+  margin:auto;
 }
