@@ -5,9 +5,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }  
- 
 
+header { 
+  background-color: powderblue;
 }
+
 h1 {
   color:white;
   text-align:center;
