@@ -6,8 +6,8 @@ body {
   margin-right: auto;
 }  
 
-header { 
-  background-color: powderblue;
+#header { 
+  background-color: blue;
 }
 
 h1 {
