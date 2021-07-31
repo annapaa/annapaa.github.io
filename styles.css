@@ -19,7 +19,8 @@ body {
 }
 
 #footer {
-  text-align: right
+  text-align: left;
+  font-size: 30px;
 }
 
 h1 {
