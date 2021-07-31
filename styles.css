@@ -18,6 +18,10 @@ body {
   background-color: white;
 }
 
+#footer {
+  text-align: center
+}
+
 h1 {
   color:white;
   text-align:center;
