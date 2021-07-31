@@ -19,6 +19,11 @@ body {
   text-color: black;
 }
 
+#section2 {
+  background-color:beige;
+  text-color: blue;
+}
+
 #footer {
   text-align: left;
   font-size: 30px;
