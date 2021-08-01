@@ -41,6 +41,7 @@ h1 {
   border-style:groove;
   border-radius: 15px 15px 100px 100px;
   margin:15px;
+  padding: 10px;
 }
 h2 {
   color:black;
@@ -49,6 +50,7 @@ h2 {
   border-style:groove;
   border-radius:15px;
   margin:20px;
+  padding: 10px;
 }
 p {
   font-family: verdana;
