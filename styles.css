@@ -5,11 +5,11 @@ body {
   margin-right: auto;
 }  
 
-#header { 
-  background-color: lightgray;
-  padding: 15px;
+header { 
+  background-color: black;
+  padding: 30px;
   margin: 20px;
-    
+  text-align: center;
 }
 
 
