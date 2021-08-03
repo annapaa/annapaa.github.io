@@ -67,7 +67,7 @@
 	overflow:hidden;
 }
 
-.nav :not(:first-child) {
+#nav :not(:first-child) {
     border-left: 1px solid black;
     margin-left: 17px ;
     padding-left: 17px ;
