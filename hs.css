@@ -13,7 +13,7 @@
 
 .nav {
 	text-align:center;
-	display: inline-block;
+	display: block;
 }
 
 .nav :not(:first-child) {
