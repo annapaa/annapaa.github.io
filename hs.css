@@ -17,6 +17,7 @@
 	float:left;
 	width:100%;
 	position:relative;
+	overflow:hidden;
 }
 
 .nav :not(:first-child) {
