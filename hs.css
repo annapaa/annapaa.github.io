@@ -15,7 +15,6 @@
    width:100%;
    overflow:hidden;
    position:relative;
-  text-color: black;
     padding: 20px;
     margin: 20px;
     background-color:linen;
@@ -41,8 +40,7 @@
    padding:0;
    position:relative;
    right:50%;
-   text-color: black;
-    background-color:none;   
+   
 }
 
 #nav ul li a {
