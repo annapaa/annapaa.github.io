@@ -69,12 +69,13 @@
 
 footer {
   text-align:center;
-  font-size:10px;
+  font-size:20px;
   clear:both;
+  width:100%;
   font-family: verdana;
   color: black;
   background-color: white;
-  border-style: solid;
+  border-style: solid 1px 0px 0px 0px;
   padding: 1px;
   margin:5px;
   
