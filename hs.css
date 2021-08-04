@@ -12,9 +12,10 @@
 }
 #nav {
    float:left;
-   width:90%;
+   width:100%;
    overflow:hidden;
    position:relative;
+  clear:both;
     padding: 20px;
     margin: 20px;
     background-color:linen;
