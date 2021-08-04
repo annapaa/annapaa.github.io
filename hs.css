@@ -15,9 +15,9 @@
    width:100%;
    overflow:hidden;
    position:relative;
-	text-color: black;
-    padding: 10px;
-    margin: 10px;
+  text-color: black;
+    padding: 20px;
+    margin: 20px;
     background-color:linen;
 }
 
@@ -29,9 +29,10 @@
    padding:0;
    position:relative;
    left:50%;
-   text-align:center;
-	text-color:green;
+   text-align:center; 
 }
+
+
 #nav ul li {
    display:block;
    float:left;
@@ -40,8 +41,10 @@
    padding:0;
    position:relative;
    right:50%;
-	text-color: blue;
+   text-color: black;
+    background-color:none;   
 }
+
 #nav ul li a {
    display:block;
    margin: 1px;
@@ -52,16 +55,9 @@
 }
 
 #nav ul li a:hover {
-   background: lightgray;
-   ;
+   background:lightgray;
+  
 }
-#nav ul li a.active,
-#nav ul li a.active:hover {
-   color:green
-   background:yellow;
-   font-weight:bold;
-}
-
 
 
 #nav :not(:first-child) {
