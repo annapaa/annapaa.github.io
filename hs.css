@@ -73,7 +73,7 @@ footer {
   font-family: verdana;
   color: black;
   background-color: white;
-  border-style: solid 1px 0px 0px 0px;
+  border-style: solid;
   padding: 10px;
   margin:15px;
   
