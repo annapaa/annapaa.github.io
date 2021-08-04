@@ -13,7 +13,7 @@
 #nav {
    float:left;
    width:100%;
-   border-bottom:4px solid #000;
+   border-bottom:4px solid blue;
    overflow:hidden;
    position:relative;
 	text-color: red;
