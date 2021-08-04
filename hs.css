@@ -16,6 +16,7 @@
    border-bottom:4px solid #000;
    overflow:hidden;
    position:relative;
+	text-color: red;
 }
 #nav ul {
    clear:left;
@@ -26,6 +27,7 @@
    position:relative;
    left:50%;
    text-align:center;
+	text-color:green;
 }
 #nav ul li {
    display:block;
@@ -35,6 +37,7 @@
    padding:0;
    position:relative;
    right:50%;
+	text-color: blue;
 }
 #nav ul li a {
    display:block;
@@ -42,6 +45,7 @@
    padding:3px 10px;
    text-decoration:none;
    line-height:1.3em;
+	text-color:yellow;
 }
 #nav ul li a:hover {
    background: red;
