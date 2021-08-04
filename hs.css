@@ -13,11 +13,14 @@
 #nav {
    float:left;
    width:100%;
-   
    overflow:hidden;
    position:relative;
-	text-color: red;
+	text-color: black;
+    padding: 10px;
+    margin: 10px;
+    background-color:linen;
 }
+
 #nav ul {
    clear:left;
    float:left;
