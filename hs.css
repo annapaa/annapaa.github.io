@@ -42,6 +42,7 @@
    padding:0;
    position:relative;
    right:50%;
+  clear:both;
    
 }
 
@@ -52,6 +53,7 @@
    text-decoration:none;
    line-height:1.3em;
    color:black;
+  clear:both;
 }
 
 #nav ul li a:hover {
