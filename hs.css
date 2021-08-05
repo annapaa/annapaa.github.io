@@ -8,6 +8,7 @@ body {
 .row {
   background-color: linen;
   color:black;
+  clear:both;
 }
 
 
