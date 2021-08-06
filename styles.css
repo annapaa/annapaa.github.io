@@ -41,7 +41,7 @@ body {
   color:red;
   }
   
- section {
+ #section {
   float: left;
   width: 79%;
   background-color: white;
@@ -59,18 +59,18 @@ body {
   background-color:lightgray;
   }
 
-.koirat {
+#koirat {
   background-color: blue;
   text-align:center;
   color:white;
 }
 
- .kauppalista {
+ #kauppalista {
    background-color: steelblue;
    text-align:center;
 }
 
-.footer {
+#footer {
   text-align:center;
   font-size:30px;
   clear:both;
