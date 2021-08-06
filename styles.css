@@ -17,8 +17,6 @@ body {
   }
   
   
-
-  
  div.myDiv {
   border: 2px dotted yellow;
   width: 150px;
@@ -31,12 +29,6 @@ body {
 
  .kauppalista {
     background-color: steelblue;
-}
-
-  
-
-#section2 {
-  background-color: steelblue;
 }
 
 .footer {
