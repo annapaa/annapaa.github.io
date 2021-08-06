@@ -21,7 +21,7 @@ body {
 }
 
   
- .nav {
+ nav {
   float: left;
   width: 18%;
   background-color: snow;
@@ -32,7 +32,7 @@ body {
   height: 200px;
   }
   
- .nav ul {
+ nav ul {
   list-style-type: none;
   padding: 0;
   }
