@@ -12,7 +12,23 @@ header {
   text-align: center;
 }
 
+ * {   
+  box-sizing: border-box; 
+  }
+  
+  
+ .listat {
+    Color: white;
+    }
+  
+ div.myDiv {
+  border: 2px dotted yellow;
+  width: 150px;
+  height: 100px;  
+  }
 
+  
+  
 #section {
   background-color: blue;
 }
@@ -43,6 +59,7 @@ h1 {
   margin:15px;
   padding: 20px;
 }
+
 h2 {
   color:black;
   text-align:center;
@@ -51,7 +68,9 @@ h2 {
   border-radius:15px;
   margin: 7px;
   padding: 10px;
+  text-color: white;
 }
+
 p {
   font-family: verdana;
   font-size: 12px;
