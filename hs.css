@@ -6,8 +6,8 @@ body {
 } 
 
 p {
-   padding: 15 px;
-   margin: 15 px;
+   padding: 15px;
+   margin: 15px;
 }
 
 .keskitettykuva {
@@ -19,15 +19,15 @@ p {
 .kuvaoikealla {
 	float: right;
 	width: 15%;
-	padding: 10 px;
-	margin: 15 px;
+	padding: 10px;
+	margin: 15px;
 }
 
 .kuvavasemmalla {
 	float: left;
 	width: 15%;
-	padding: 10 px;
-	margin: 15 px;
+	padding: 10px;
+	margin: 15px;
 }
 
 .yhteystiedot {
