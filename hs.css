@@ -12,6 +12,13 @@ body {
   	margin-right: auto;
   	width: 50%;
 }
+.kuvaoikealla {
+	float: right;
+}
+
+.kuvavasemmalla {
+	float: left;
+}
 
 #container {
 	padding: 10px;
