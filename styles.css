@@ -5,7 +5,7 @@ body {
   margin-right: auto;
 }  
 
-header { 
+.header { 
   background-color: black;
   padding: 30px;
   margin: 10px;
@@ -29,17 +29,13 @@ header {
 
 .koirat {
   background-color: blue;
-  color:red;
 }
 
-  .kauppalista {
+ .kauppalista {
     background-color: steelblue;
 }
 
   
-#section {
-  background-color: blue;
-}
 
 #section2 {
   background-color: steelblue;
