@@ -19,8 +19,12 @@ body {
   
  .myDiv {
   border: 2px dotted yellow;
-  width: 150px;
-  height: 100px;  
+  width: 30%px;
+  float:right;
+  padding: 5px;
+  margin: 5px;
+  background-color:lightgray;
+   
   }
 
 .koirat {
