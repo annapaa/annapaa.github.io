@@ -31,8 +31,7 @@ p {
 }
 
 .yhteystiedot {
-	float: right;
-	width: 20%;
+	width: 100%;
 	margin: auto;
 }
 
