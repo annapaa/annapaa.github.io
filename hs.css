@@ -9,11 +9,14 @@ body {
         border: none;
         padding: 5px;
         margin: 10px;
+      }
+
+.keskitettykuva {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
   	width: 50%;
-      }
+}
 
 #container {
 	padding: 10px;
