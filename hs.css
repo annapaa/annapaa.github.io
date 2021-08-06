@@ -5,6 +5,19 @@ body {
   margin-right: auto;
 } 
 
+figure {
+        border: none;
+        padding: 5px;
+        margin: 10px;
+        text-align:center;
+      }
+
+#container {
+	padding: 10px;
+	margin: 10px;
+	}
+	
+
 .row {
   background-color: linen;
   color:black;
