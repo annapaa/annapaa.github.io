@@ -76,3 +76,29 @@ p {
   padding: 5px;
   margin: 5px;
 }
+
+
+figure {
+        border: none;
+        padding: 4px;
+        margin: 4px;
+        text-align:center;
+      }
+          
+figcaption {
+        color: white;
+        background-color: gray;
+        text-align:center;
+        border: 1px solid;
+        padding: 4px;
+        margin:auto;
+      }
+      
+progress {
+        text-align:center;
+      }
+      
+      
+label {
+        margin-left: 400px;
+      }
