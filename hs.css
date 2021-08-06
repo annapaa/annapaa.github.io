@@ -38,8 +38,6 @@ p {
 }
 
 .container {
-	padding: 10px;
-	margin: 10px;
 	clear:both;
 	margin-left:auto;
 	margin-right:auto;
@@ -51,8 +49,9 @@ p {
   background-color: lightblue;
   color:black;
   clear:both;
-  margin: 10px;
-  padding: 10px;
+  margin-left:auto;
+  margin-right:auto;
+  width: 100%;
   
 }
 
