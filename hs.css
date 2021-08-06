@@ -14,14 +14,12 @@ body {
 }
 .kuvaoikealla {
 	float: right;
-	width: 70 px;
-	height: 70px;
+	width: 20%;
 }
 
 .kuvavasemmalla {
 	float: left;
-	width: 70 px;
-	height: 70px;
+	width: 40%;
 }
 
 #container {
