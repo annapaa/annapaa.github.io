@@ -36,10 +36,12 @@ body {
 
 .koirat {
   background-color: blue;
+  text-align:center;
 }
 
  .kauppalista {
     background-color: steelblue;
+   text-align:center;
 }
 
 .footer {
