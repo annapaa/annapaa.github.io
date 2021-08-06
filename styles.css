@@ -5,6 +5,10 @@ body {
   margin-right: auto;
 }  
 
+* {   
+  box-sizing: border-box; 
+  }
+
 .header { 
   background-color: black;
   color:white;
@@ -16,10 +20,9 @@ body {
   padding: 5px;
 }
 
- * {   
-  box-sizing: border-box; 
-  }
-  
+.nav {
+  margin: 5px;
+}
   
  .myDiv {
   border: 2px dotted yellow;
@@ -28,7 +31,6 @@ body {
   padding: 5px;
   margin: 5px;
   background-color:lightgray;
-   
   }
 
 .koirat {
