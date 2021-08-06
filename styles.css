@@ -53,7 +53,7 @@ body {
  
   
 
-  
+
 
 
  .myDiv {
@@ -125,6 +125,13 @@ figcaption {
         padding: 4px;
         margin:auto;
       }
+
+.keskitettykuva {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
       
 progress {
         text-align:center;
