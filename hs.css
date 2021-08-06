@@ -15,15 +15,15 @@ body {
 .kuvaoikealla {
 	float: right;
 	width: 15%;
-	padding: 5 px;
-	margin: 5 px;
+	padding: 10 px;
+	margin: 10 px;
 }
 
 .kuvavasemmalla {
 	float: left;
 	width: 15%;
-	padding: 5 px;
-	margin: 5 px;
+	padding: 10 px;
+	margin: 10 px;
 }
 
 #container {
