@@ -3,3 +3,7 @@
   padding: 10px;
   box-shadow: 5px 10px;
 }
+
+#teksti {
+  text-shadow: 2px 2px #0022ff;
+}
