@@ -25,4 +25,16 @@ a {
     }
 a:hover {
     color: red;
-    }
+}
+
+body {
+  background-color: linen;
+}
+
+
+@media screen and (max-width: 800px) {
+  body {
+    background-color: black;
+    color:white;
+  }
+}
