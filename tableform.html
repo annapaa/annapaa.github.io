@@ -67,12 +67,15 @@ th, td {
  <h1>Liity mukaan!</h1>
 
 <form>                     
-  <label for="name">Etunimi:</label>
-  <input type="text" id="etunimi" name="etunimi" required> </br>
-  <label for="name">Sukunimi:</label>
-  <input type="text" id="sukunimi" name="sukunimi" required></br>
-  <label for="name">Sähköposti:</label>
-  <input type="text" id="sposti" name="sposti" required> </br>
+  <fieldset>
+    <legend>Henkilötiedot:</legend>
+      <label>Etunimi:</label>
+        <input type="text" required><br><br>
+      <label>Sukunimi:</label>
+       <input type="text" required><br><br>
+      <label>Sähköposti:</label>
+       <input type="email" required><br><br>
+ </fieldset>
 
   <h2>Kommenttisi</h2>
   <textarea rows="4" cols="80" name="comment" required>
