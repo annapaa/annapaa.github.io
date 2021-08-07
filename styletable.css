@@ -18,3 +18,8 @@ th, td {
 #testi {
   background-color: #fcfcdc
 }
+
+caption {
+  text-align:left;
+  font-weight:bold;
+}
