@@ -15,3 +15,14 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+a {
+    color:black;
+  }
+a {
+    margin: 20px;
+    transition: color 1s; 
+    }
+a:hover {
+    color: red;
+    }
