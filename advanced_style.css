@@ -11,7 +11,7 @@
 #tausta {
   border: 2px solid black;
   padding: 25px;
-  background: IMG_5523.jpg;
+  background: url "IMG_5523.jpg";
   background-repeat: no-repeat;
   background-size: cover;
 }
