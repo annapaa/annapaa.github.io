@@ -23,3 +23,7 @@ caption {
   text-align:left;
   font-weight:bold;
 }
+
+input {
+  width: 40%;
+}
